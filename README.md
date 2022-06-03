@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @colbysoldan
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning C#, SQL, HTML, CSS and Javascript.
-- 📫 How to reach me: twitter.com/SoldanColby
+- 📫 How to reach me: 
+-                     twitter.com/SoldanColby
 -                     codewars.com/users/colbysoldan
 -                     linkedin.com/in/colby-soldan-10228a23b/
 <!---
