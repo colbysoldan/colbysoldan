@@ -10,8 +10,11 @@
 - 📝 I regularly write articles on [https://wordpress.com/view/colbycodes.wordpress.com](https://wordpress.com/view/colbycodes.wordpress.com)
 
 - 📫 How to reach me **colbylsoldan@gmail.com**
+<!-- 
+<a href="https://codepen.io/cubbletelescope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cubbletelescope" height="30" width="40" /></a> -->
 
-
+[
+](https://www.codewars.com/users/colbysoldan/badges/large)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
