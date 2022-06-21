@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **colbylsoldan@gmail.com**
 
-[https://github-readme-stats.vercel.app/api/top-langs?username=colbysoldan&show_icons=true&locale=en&layout=compact](https://www.codewars.com/users/colbysoldan/badges/large)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
