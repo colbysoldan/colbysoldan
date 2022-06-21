@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **colbylsoldan@gmail.com**
 
+[https://github-readme-stats.vercel.app/api/top-langs?username=colbysoldan&show_icons=true&locale=en&layout=compact](https://www.codewars.com/users/colbysoldan/badges/large)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/cubbletelescope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cubbletelescope" height="30" width="40" /></a>
