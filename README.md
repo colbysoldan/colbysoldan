@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **C#, Python, and JavaScript**
 
-- 📝 I regularly write articles on [https://wordpress.com/view/colbycodes.wordpress.com](https://wordpress.com/view/colbycodes.wordpress.com)
-
 - 📫 How to reach me **colbylsoldan@gmail.com**
 
 <br>
